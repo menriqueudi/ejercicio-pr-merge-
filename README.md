@@ -12,7 +12,7 @@ Ejemplo:
  (Pendiente de mejorar)
 
  ##Reglas del equipo
- -
+ -hola
  -
  -
  -
